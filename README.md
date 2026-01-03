@@ -37,8 +37,16 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
   
 ### 🌐 Frontend Development
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,Node.js, Express.js" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
   </p>
+
+### 🔧 Backend Development
+    <p align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    </p>
+    <p>
+      REST APIs • Authentication • CRUD Operations • MVC Architecture
+    </p>
 
 ### 🤖 Machine Learning & Data
 - Pandas, NumPy
@@ -46,6 +54,9 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 - Feature Engineering & Model Evaluation
 - NLP (Text preprocessing, OCR-based Urdu text extraction)
 - Streamlit, Matplotlib, Seaborn
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </p>
 
 ### 🧩 Odoo Framework
 - Odoo 15–18
@@ -54,10 +65,16 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 - Automation Workflows
 - PostgreSQL, Odoo.sh
 - Docker-based Local Setup
+    <p align="left">
+      <img src="https://skillicons.dev/icons?i=postgres,docker" />
+    </p>
 
 ### 🗄️ Databases & Tools
 - SQL, MongoDB
 - Git, GitHub, GitHub Desktop
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github" />
+</p>
 
 ---
 
