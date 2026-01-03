@@ -113,9 +113,9 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sana666-art&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sana666-art&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sana666-art&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sana666-art&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sana666-art&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
