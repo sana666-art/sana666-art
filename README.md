@@ -31,22 +31,22 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Development
-- <p align="left">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp" />
-  </p>
+</p>
   
 ### 🌐 Frontend Development
-  <p align="left">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
-  </p>
+</p>
 
 ### 🔧 Backend Development
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
-    </p>
-    <p>
-      REST APIs • Authentication • CRUD Operations • MVC Architecture
-    </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+<p>
+    REST APIs • Authentication • CRUD Operations • MVC Architecture
+</p>
 
 ### 🤖 Machine Learning & Data
 - Pandas, NumPy
@@ -54,9 +54,9 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 - Feature Engineering & Model Evaluation
 - NLP (Text preprocessing, OCR-based Urdu text extraction)
 - Streamlit, Matplotlib, Seaborn
-  <p align="left">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=python" />
-  </p>
+</p>
 
 ### 🧩 Odoo Framework
 - Odoo 15–18
@@ -65,9 +65,9 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 - Automation Workflows
 - PostgreSQL, Odoo.sh
 - Docker-based Local Setup
-    <p align="left">
-      <img src="https://skillicons.dev/icons?i=postgres,docker" />
-    </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=postgres,docker" />
+</p>
 
 ### 🗄️ Databases & Tools
 - SQL, MongoDB
@@ -75,7 +75,6 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github" />
 </p>
-
 ---
 
 ## 📌 Featured Projects
