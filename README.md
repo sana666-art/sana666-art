@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sana Khalid Memon  
 
 🎓 Computer Science & Information Technology Undergraduate  
-🤖 Aspiring Machine Learning Engineer | Backend Developer | Odoo Developer  
+🤖 Aspiring Machine Learning Engineer | Frontend Developer | Odoo Developer  
 📍 Karachi, Pakistan  
 
 ---
