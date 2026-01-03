@@ -31,9 +31,14 @@ I enjoy turning ML ideas into **practical business solutions** by integrating th
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Development
-- **Python**, JavaScript, PHP, C/C++
-- **Node.js**, Express.js
-- **React**, HTML, CSS, Bootstrap, Tailwind
+- <p align="left">
+    <img src="https://skillicons.dev/icons?i=python,js,php,c,cpp" />
+  </p>
+  
+### 🌐 Frontend Development
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,Node.js, Express.js" />
+  </p>
 
 ### 🤖 Machine Learning & Data
 - Pandas, NumPy
